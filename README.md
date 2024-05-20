@@ -1,16 +1,6 @@
-# cryptog
+# Better-Half
 
-A new Flutter project.
+A better dating app UI. Making a dating app more of a Social media expirience.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+![Untitled design (3)](https://github.com/Asif-Faizal/Better-Half/assets/112123678/aa757017-8251-48d9-944f-a99c7c66648b)
